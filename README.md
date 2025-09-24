@@ -67,3 +67,42 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=onedark" alt="Trophies" style="height: 180px;" />
 
 </div>
+
+
+
+---
+
+<div align="center">
+
+💻 **Stay coding, stay crazy!**  
+🚀 **Data Science | AI | Full-Stack Developer | Meme Engineer**  
+🌈 **Turning coffee into code since forever ☕💻**  
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://c.tenor.com/6HqY4Jr9kYoAAAAC/coding.gif" alt="Coding GIF" width="250px"/>
+
+</div>
+
+---
+
+<div align="center">
+
+🔥 **GitHub vibes ON:**  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical)  
+
+</div>
+
+---
+
+<div align="center">
+
+✨ **“Eat. Sleep. Code. Repeat.”** ✨  
+💡 **Chasing bugs and chasing dreams.**  
+🎯 **#CodeLife #Hackathons #AI #DataScience**  
+
+</div>
