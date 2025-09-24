@@ -1,15 +1,15 @@
 <div align="center">
-  <!-- Animated Header (reduced height & added margin) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ashok%20Mahajan&fontSize=48&fontColor=fff&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlign=50" style="margin-bottom: 20px;" />
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ashok%20Mahajan&fontSize=60&fontColor=fff&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlign=50" />
 </div>
 
 <!-- Typing Animation -->
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&multiline=true&width=800&height=80&lines=Hey+There!+I'm+Ashok+Mahajan;Data+Scientist+%7C+Full+Stack+Developer;Building+AI+and+Web+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&multiline=true&width=800&height=80&lines=Hey+There!+I'm+Ashok+Mahajan;Data+Scientist+%7C+Full+Stack+Developer;Building+AI+and+Web+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
-<div align="center" style="margin-bottom: 30px;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=AshokMahajan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
 
@@ -20,7 +20,7 @@
 - 🌱 Currently learning GANs, Deep Learning, and cloud deployment  
 - 🤝 Looking to collaborate on AI, cybersecurity, and web apps  
 - 💬 Ask me about Python, PyTorch, React, Django, and Data Science  
-- 📫 Reach me: [ashmahajan05@gmail.com](mailto:ashmahajan05@gmail.com)  
+- 📫 Reach me: ashmahajan05@gmail.com  
 - ❤️ I love coding, AI, and building cool projects  
 - ⚡ Fun fact: I break problems into algorithms before breaking my fast ☕
 
@@ -53,28 +53,22 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AshokMahajan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokMahajan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshokMahajan&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokMahajan&layout=compact&theme=radical"/>
 </div>
 
 ---
 
 ## 🌐 Connect With Me
-
-<div align="center" style="margin-top: 30px;">
-  <a href="https://linkedin.com/in/ashok-mahajan-05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/AshokMahajan05"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:ashmahajan05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<div align="center">
+<a href="https://linkedin.com/in/ashok-mahajan-05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/AshokMahajan05"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:ashmahajan05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
 
-<div align="center" style="margin-top: 40px;">
-  <h3>Thanks for visiting! Keep coding and stay awesome! 🌟</h3>
+<div align="center">
+<h3>Thanks for visiting! Keep coding and stay awesome! 🌟</h3>
 </div>
