@@ -1,16 +1,8 @@
 <div align="center">
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ashok%20Mahajan&fontSize=50&fontColor=fff&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlign=50" style="margin-bottom:20px"/>
+  <!-- Animated Header with increased space between title and subtitle -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashok%20Mahajan&fontSize=60&fontColor=fff&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlign=50&descOffsetY=30" style="margin-bottom: 20px;" />
 </div>
 
-
-
-
-
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&multiline=true&width=700&height=60&lines=Hey+There!+I'm+Ashok+Mahajan;Data+Scientist+%7C+Full+Stack+Developer;Building+AI+and+Web+Projects;Always+Learning+New+Technologies" alt="Typing SVG" style="margin-top:10px"/>
-</div>
 
 
 <!-- Profile Views Counter -->
