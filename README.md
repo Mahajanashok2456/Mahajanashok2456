@@ -71,38 +71,25 @@
 
 
 ---
-
-<div align="center">
-
-💻 **Stay coding, stay crazy!**  
-🚀 **Data Science | AI | Full-Stack Developer | Meme Engineer**  
-🌈 **Turning coffee into code since forever ☕💻**  
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://c.tenor.com/6HqY4Jr9kYoAAAAC/coding.gif" alt="Coding GIF" width="250px"/>
+🌟✨ **Keep Calm & Code On!** ✨🌟  
+💻 **Full-Stack Dev | Data Scientist | AI Explorer**  
+☕ **Fueled by coffee, powered by code**  
 
-</div>
+🎯 **Goals:** Learn, Build, Repeat.  
+🚀 **Always exploring new tech universes**  
 
----
+💡 **Fun Fact:** “Code never lies, comments sometimes do 😎”  
 
-<div align="center">
+🎨 **Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mahajanashok2456/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
-🔥 **GitHub vibes ON:**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical)  
-
-</div>
-
----
-
-<div align="center">
-
-✨ **“Eat. Sleep. Code. Repeat.”** ✨  
-💡 **Chasing bugs and chasing dreams.**  
-🎯 **#CodeLife #Hackathons #AI #DataScience**  
+🌈 **“Eat. Sleep. Code. Repeat. And sometimes debug at 3 AM.”** 🕹️  
+💥 **#Hackathons #DataScience #AI #WebDev #CodeLife**
 
 </div>
