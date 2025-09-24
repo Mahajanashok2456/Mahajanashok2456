@@ -77,13 +77,10 @@
 🎨 **Connect:**  
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: nowrap;">
 
-  <a href="https://www.linkedin.com/in/Mahajanashok2456/">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/mahajanashok78/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
