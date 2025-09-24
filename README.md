@@ -75,15 +75,6 @@
 
 <div align="center">
 
-🌟✨ **Keep Calm & Code On!** ✨🌟  
-💻 **Full-Stack Dev | Data Scientist | AI Explorer**  
-☕ **Fueled by coffee, powered by code**  
-
-🎯 **Goals:** Learn, Build, Repeat.  
-🚀 **Always exploring new tech universes**  
-
-💡 **Fun Fact:** “Code never lies, comments sometimes do 😎”  
-
 🎨 **Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mahajanashok2456/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
