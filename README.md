@@ -36,8 +36,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Y1Yj9rkqPAhgm/giphy.gif" width="200" />  
-</p>
 
 <p align="center"><b>"Code hard, sleep soft, dream infinite." 🌙</b></p>
