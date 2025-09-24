@@ -72,14 +72,12 @@
 
 ---
 
-<div align="center">
-
-🎨 **Connect:**  
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: nowrap;">
 
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/mahajanashok78/">
+  <a href="https://www.linkedin.com/in/mahajanashok78/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
 
 
   <a href="https://yourportfolio.com">
@@ -88,7 +86,3 @@
 
 </div>
 
-🌈 **“Eat. Sleep. Code. Repeat. And sometimes debug at 3 AM.”** 🕹️  
-💥 **#Hackathons #DataScience #AI #WebDev #CodeLife**
-
-</div>
