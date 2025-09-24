@@ -86,3 +86,5 @@
 
 </div>
 
+🌈 **“Eat. Sleep. Code. Repeat. And sometimes debug at 3 AM.”** 🕹️  
+💥 **#Hackathons #DataScience #AI #WebDev #CodeLife**
