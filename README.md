@@ -44,10 +44,33 @@
 
 ---
 
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahajanashok2456&theme=tokyo-night)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahajanashok2456&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=onedark)
+  <!-- Row 1: Stats + Top Languages -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
+  <!-- Row 2: Activity Graph + Streak + Trophy -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahajanashok2456&theme=tokyo-night" alt="GitHub Activity Graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahajanashok2456&theme=radical" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=onedark" alt="Trophies" />
+      </td>
+    </tr>
+  </table>
+
+</div>
