@@ -21,7 +21,8 @@
 ### 🛠️ Tech Toybox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,docker,firebase,git,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,html,css,react,nextjs,tailwind,nodejs,express,django,mongodb,mysql,sqlite,git,docker,figma,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
 ---
