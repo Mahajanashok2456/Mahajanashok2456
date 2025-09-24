@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header with increased space between title and subtitle -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashok%20Mahajan&fontSize=50&fontColor=fff&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlign=50&descOffsetY=30" style="margin-bottom: 10px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashok%20Mahajan&fontSize=50&fontColor=fff&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlign=50&descOffsetY=20" style="margin-bottom: 10px;" />
 </div>
 
 
