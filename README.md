@@ -9,11 +9,11 @@
 </div>
 
 ## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=katikolakarthik&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katikolakarthik&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katikolakarthik&theme=tokyo-night)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katikolakarthik&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=katikolakarthik&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahajanashok2456&theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahajanashok2456&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=onedark)
 
 ### 🛠 Languages & Tools:
 
