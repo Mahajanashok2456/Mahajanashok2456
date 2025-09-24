@@ -91,7 +91,5 @@
 </div>
 
 
-<div align="center">
-  <img src="https://placekitten.com/800/200" alt="cute kitten vibes"/>
-</div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
