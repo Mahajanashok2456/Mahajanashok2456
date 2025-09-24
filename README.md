@@ -12,9 +12,9 @@
 - 👂 Name: Ashok Mahajan  
 - 🔭 Currently working on AI/ML projects, full-stack apps, hackathon-ready solutions  
 - 🌱 Currently learning GANs, Deep Learning, and cloud deployment  
-- 🤝 Looking to collaborate on AI, cybersecurity, and web apps  
+- 🤝 Looking to collaborate on AI and web apps  
 - 💬 Ask me about Python, PyTorch, React, Django, and Data Science  
-- 📫 Reach me: ashmahajan05@gmail.com  
+- 📫 Reach me: ashokroshan78@gmail.com  
 - ❤️ I love coding, AI, and building cool projects  
 - ⚡ Fun fact: I break problems into algorithms before breaking my fast ☕
 
