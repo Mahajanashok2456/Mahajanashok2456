@@ -44,33 +44,31 @@
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- Row 1: Stats + Top Languages -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Stats -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 180px;" />
+  </div>
 
-  <!-- Row 2: Activity Graph + Streak + Trophy -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahajanashok2456&theme=tokyo-night" alt="GitHub Activity Graph" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahajanashok2456&theme=radical" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=onedark" alt="Trophies" />
-      </td>
-    </tr>
-  </table>
+  <!-- Top Languages -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=radical" alt="Top Languages" style="height: 180px;" />
+  </div>
+
+  <!-- Activity Graph -->
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahajanashok2456&theme=tokyo-night" alt="Activity Graph" style="height: 180px;" />
+  </div>
+
+  <!-- Streak -->
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahajanashok2456&theme=radical" alt="GitHub Streak" style="height: 180px;" />
+  </div>
+
+  <!-- Trophies -->
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=onedark" alt="Trophies" style="height: 180px;" />
+  </div>
 
 </div>
