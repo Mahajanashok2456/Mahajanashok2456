@@ -86,4 +86,6 @@
 
 </div>
 
-
+<div align="center" style="margin-top: 40px;">
+  <h3>Thanks for visiting! Keep coding and stay awesome! 🌟</h3>
+</div>
