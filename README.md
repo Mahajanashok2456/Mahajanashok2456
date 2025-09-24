@@ -89,3 +89,9 @@
 <div align="center" style="margin-top: 40px;">
   <h3>Thanks for visiting! Keep coding and stay awesome! 🌟</h3>
 </div>
+
+
+<div align="center">
+  <img src="https://placekitten.com/800/200" alt="cute kitten vibes"/>
+</div>
+
