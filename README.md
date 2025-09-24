@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Animated Header with Mahajan Ashok positioned 15% from top and extra space below -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashok%20Mahajan&fontSize=60&fontColor=fff&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer&fontAlignY=20&descAlign=50&descOffsetY=40"
-    style="margin-bottom: 30px;"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashok%20Mahajan&fontSize=60&fontColor=fff&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer&fontAlignY=20&descAlign=50&descOffsetY=30"
+    style="margin-bottom: 20px;"
   />
 </div>
 
