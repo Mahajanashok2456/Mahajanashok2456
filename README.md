@@ -25,7 +25,6 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
@@ -40,29 +39,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshokMahajan&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokMahajan&layout=compact&theme=radical"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-<div align="center">
-<a href="https://linkedin.com/in/ashok-mahajan-05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/AshokMahajan05"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:ashmahajan05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
----
-
-<div align="center">
-<h3>Thanks for visiting! Keep coding and stay awesome! 🌟</h3>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=katikolakarthik&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katikolakarthik&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katikolakarthik&theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katikolakarthik&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=katikolakarthik&theme=onedark)
