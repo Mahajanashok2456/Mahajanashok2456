@@ -1,60 +1,118 @@
-<!-- Banner or GIF (optional) -->
-![banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<!-- Animated Header with Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+There!+👋+I'm+[Your+Name];💻+Full+Stack+Developer+%7C+🚀+Tech+Enthusiast;🌟+Building+Amazing+Things+Every+Day!" alt="Typing SVG" />
+</div>
 
-### Hi there 👋
+<!-- Matrix Rain GIF Header -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/coding.gif" width="600" height="300"/>
+</div>
 
-- 👂 My name is Ashok Mahajan
-- 👨 Pronouns: He/Him
-- 🔭 I’m currently working on AI & ML projects, full-stack apps, and hackathon-ready solutions
-- 🌱 I’m currently learning advanced Deep Learning, GANs, and cloud deployment
-- 🤝 I’m looking to collaborate on AI/ML projects, data-driven applications, and cybersecurity tools
-- 🤔 I’m looking for help with production-level deployment & scaling ML apps
-- 💬 Ask me about Python, PyTorch, React, Django, and Data Science concepts
-- 📫 How to reach me: ashmahajan05@gmail.com
-- ❤️ I love coding, building cool projects, and exploring AI
-- ⚡ Fun fact: I break problems into algorithms before breaking my fast ☕
+<!-- Animated Handwave -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
----
+## 🔥 About Me
 
-### 📈 GitHub Stats
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/coder.gif">
 
-![AshokMahajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokMahajan&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokMahajan&layout=compact)
+- 🌟 **Currently working on:** Something amazing!
+- 🚀 **Learning:** Next.js, AI/ML, Web3
+- 💬 **Ask me about:** React, Node.js, Python
+- ⚡ **Fun fact:** I debug with console.log() 😅
+- 🎯 **Goal:** To build products that change lives
 
----
-
-### 🛠️ Languages and Tools
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-### 🔗 Connect with me
+## 🛠️ Tech Arsenal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashok-mahajan-05/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/AshokMahajan05)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashmahajan05@gmail.com)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,typescript,javascript,html,css,git,docker,aws&theme=dark" />
+</div>
+
+<!-- Animated Skills -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</p>
 
 ---
 
-### 📚 Latest Blog Posts
+## 📊 GitHub Statistics
 
-- [How to design your GitHub profile README](#)
-- [5 tips for improving productivity](#)
-- *Show your latest posts using GitHub Actions if desired*
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 
-> ⭐ If you like my work, please star my repositories!
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Latest Projects
+
+<div align="center">
+  <a href="https://github.com/YourUsername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=radical" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/YourUsername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=radical" alt="Project 2"/>
+  </a>
+</div>
+
+---
+
+## 📈 Profile Views Counter
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+</div>
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/Hi.gif" width="60"> 
+  <h3>Thanks for visiting! Have a great day! 🌟</h3>
+</div>
