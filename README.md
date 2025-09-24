@@ -1,44 +1,45 @@
-# ⚡ Yo, I'm Ashok Mahajan ⚡
+<h1 align="center">⚡ Yo, I'm Ashok Mahajan ⚡</h1>
+<h3 align="center">🚀 Data Scientist in Training | 💻 Full-Stack Adventurer | 🤖 AI Explorer</h3>
 
-### 🚀 Data Scientist in training | 💻 Full-Stack Adventurer | 🤖 AI Explorer
-
----
-
-## 🎭 GitHub Mood Swings
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahajanashok2456&theme=neon&hide_border=true)  
-
----
-
-## 🕹️ Fun Stuff
-
-- 🐉 I fight bugs like a samurai fights demons.  
-- 🎨 I design UIs so clean you can eat biryani off them.  
-- ⚙️ I break code at night & fix it before deadlines hit.  
-- 🎧 Coding fuel = Lofi + Coffee.  
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/your-leetcode" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F79F1F?style=flat&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Toybox
-
-![Tech Stack](https://skillicons.dev/icons?i=c,java,python,php,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,docker,firebase,git,figma,tailwind)
-
----
-
-## 🏆 Achievement Shelf
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=radical&no-frame=true&margin-w=15)
+### 🔭 What I'm Up To
+- Building **AI & ML projects** with PyTorch & Scikit-learn.
+- Exploring **full-stack development** with React.js & Django.
+- Sharing my **learning journey** through projects and GitHub repos.
 
 ---
 
-## 🌌 Random Vibes Generator
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahajanashok2456&theme=react-dark&hide_border=true&area=true)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nextjs,nodejs,express,django,mysql,mongodb,sqlite,git,docker,figma,pytorch" />
+</p>
 
 ---
 
-![GIF](https://media.giphy.com/media/Y1Yj9rkqPAhgm/giphy.gif)
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&hide_border=true&layout=compact&theme=radical" />
+</p>
 
-**"Code hard, sleep soft, dream infinite." 🌙**
+---
+
+### 💬 Fun Fact
+_"I break problems into algorithms before breaking my fast ☕"_ 😎
+
+---
+
+### ⚡ Let's Connect
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
