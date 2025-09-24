@@ -47,23 +47,18 @@
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: nowrap;">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical" 
-       alt="GitHub Stats" style="width: 250px; height: 180px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahajanashok2456&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 180px;" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=radical" 
-       alt="Top Languages" style="width: 250px; height: 180px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=radical" alt="Top Languages" style="height: 180px;" />
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahajanashok2456&theme=tokyo-night" 
-       alt="Activity Graph" style="width: 250px; height: 180px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahajanashok2456&theme=tokyo-night" alt="Activity Graph" style="height: 180px;" />
 
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahajanashok2456&theme=radical" 
-       alt="GitHub Streak" style="width: 250px; height: 180px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahajanashok2456&theme=radical" alt="GitHub Streak" style="height: 180px;" />
 
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=onedark" 
-       alt="Trophies" style="width: 250px; height: 180px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahajanashok2456&theme=onedark" alt="Trophies" style="height: 180px;" />
 
 </div>
