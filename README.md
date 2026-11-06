@@ -1,17 +1,16 @@
 # Ashok Mahajan
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ashok%20Mahajan&fontSize=55&fontColor=fff&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full%20Stack&fontAlignY=30&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ashok%20Mahajan&fontSize=55&fontColor=fff&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%2FML&fontAlignY=30&descAlignY=55" />
 </div>
 
 ## About Me
 
 - Software Developer Intern at **Infosys**.
 - B.Tech graduate in Computer Science and Engineering (Data Science).
-- Interested in building full-stack applications and AI-powered solutions.
-- Experienced in working on web development and data science projects.
-- Co-founder of **Awaylabs**, a training and internship initiative.
-- Open to software engineering, full-stack development, and AI/ML opportunities.
+- Interested in software engineering, full-stack development, and AI/ML.
+- Experienced in building web applications and working on data science projects.
+- Open to opportunities in Software Development, Full Stack Engineering, and AI/ML.
 
 ## Technical Skills
 
