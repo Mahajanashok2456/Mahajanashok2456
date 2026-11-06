@@ -51,7 +51,6 @@
 <div align="center">
 
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanashok2456&layout=compact&theme=radical&hide_border=true" />
 
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahajanashok2456&theme=radical&hide_border=true" />
 
